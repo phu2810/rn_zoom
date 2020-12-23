@@ -1,0 +1,20 @@
+{
+  "name": "rn_zoom",
+  "version": "4.0.4",
+  "description": "RN Zoom",
+  "homepage": "https://github.com/phu2810/rn_zoom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git push && git push --tags"
+  },
+  "keywords": [
+    "react-native",
+    "zoom.us"
+  ],
+  "author": "aic_dev",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">0.41.2"
+  }
+}
