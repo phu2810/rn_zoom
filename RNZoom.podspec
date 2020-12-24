@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
 
   s.libraries = "sqlite3", "z.1.2.5", "c++"
   s.dependency "React"
-  s.dependency "Zoom-SDK", :git => 'https://github.com/phu2810/Zoom_SDK'
+  s.dependency "ZoomSDK_iOS", '~> 5.2.42037.1112'
 end

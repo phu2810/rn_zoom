@@ -11,9 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce3571f1-9d6f-4453-bcfe-060cef47ff23" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RNZoom.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/RNZoom.podspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/RNZoom.xcodeproj/project.xcworkspace/xcuserdata/phu.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/ios/RNZoom.xcodeproj/project.xcworkspace/xcuserdata/phu.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/RNZoom.xcodeproj/xcuserdata/phu.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/RNZoom.xcodeproj/xcuserdata/phu.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608709711207</updated>
-      <workItem from="1608709712436" duration="3260000" />
+      <workItem from="1608709712436" duration="3426000" />
     </task>
     <servers />
   </component>
@@ -71,6 +70,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state width="1419" height="231" key="GridCell.Tab.0.bottom" timestamp="1608717172723">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1608717172723" />
+    <state width="1419" height="231" key="GridCell.Tab.0.center" timestamp="1608717172722">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1608717172722" />
+    <state width="1419" height="231" key="GridCell.Tab.0.left" timestamp="1608717172722">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1608717172722" />
+    <state width="1419" height="231" key="GridCell.Tab.0.right" timestamp="1608717172722">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608717172722" />
     <state x="622" y="242" width="604" height="490" key="find.popup" timestamp="1608711025238">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
